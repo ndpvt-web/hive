@@ -74,9 +74,9 @@ The orchestrator (Claude Code) receives all messages automatically.
 
 | Cognitive Demand | Model |
 |-----------------|-------|
-| Deep synthesis, strategy, high-stakes decisions | `claude-opus-4-6` |
-| Production writing, analysis, implementation | `claude-sonnet-4-6` |
-| Bulk generation, formatting, pattern application | `claude-haiku-4-5` |
+| Deep synthesis, strategy, high-stakes decisions | `claude-opus-4.6` |
+| Production writing, analysis, implementation | `claude-sonnet-4.6` |
+| Bulk generation, formatting, pattern application | `claude-haiku-4.5` |
 | Structured JSON / schema-heavy output | `openai/gpt-4.1` |
 | Long documents (200k+ tokens) | `google/gemini-3.1-pro-preview` |
 | Real-time / social context | `x-ai/grok-3` |
